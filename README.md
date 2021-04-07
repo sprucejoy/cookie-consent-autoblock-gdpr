@@ -12,6 +12,10 @@ That is it!  This will display a cookie consent banner on your site as well as a
 
 Advanced setting and styling, please [read here](https://sprucejoy.com/resources/cookie-consent-gdpr).
 
+Banner looks like this:
+<img src="https://lapro.sfo2.cdn.digitaloceanspaces.com/sprucejoy/resources/cookie-bar.png" alt="cookie consent & autoblocking" loading="lazy">
+
+
 ---
 
 ## Built-In Autoblocking Scripts
