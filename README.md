@@ -10,7 +10,7 @@ Simply copy and paste following code and paste the code **BEFORE** any ```<scrip
 
 That is it!  This will display a cookie consent banner on your site as well as autoblocking scripts like Google Analtyics, Facebook pixel, Google Tag Manager (see [built-in scripts](#built-in-autoblocking-scripts) ) setting cookie on your site.
 
-Advanced setting and styling, please [read here](https://sprucejoy.com/resources/cookie-consent-gdpr).
+**Advanced setting and styling, please [read here](https://sprucejoy.com/resources/cookie-consent-gdpr)**.
 
 Banner looks like this:
 <img src="https://lapro.sfo2.cdn.digitaloceanspaces.com/sprucejoy/resources/cookie-bar.png" alt="cookie consent & autoblocking" loading="lazy">
