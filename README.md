@@ -15,6 +15,17 @@ Advanced setting and styling, please [read here](https://sprucejoy.com/resources
 Banner looks like this:
 <img src="https://lapro.sfo2.cdn.digitaloceanspaces.com/sprucejoy/resources/cookie-bar.png" alt="cookie consent & autoblocking" loading="lazy">
 
+## What is Cookie Consent & Autoblocking?
+
+Cookie Consent & Autoblocking is a lightweight Javascript to help you quickly comply with the EU Cookie Law, CCPA, GDPR and other privacy laws.
+
+This script provides following functions:
+
+- An Easily Configurable Cookie Consent Banner to be displayed to info the users.
+- The tracking tags  (both [built-in tags](#built-in-autoblocking-scripts) and configured) will be blocked until the user accepts the policy.
+- When a user accepts the cookie policy, the Cookie Consent Banner will no longer be shown.
+
+This script is developed by [SpruceJoy](https://sprucejoy.com), a membership app that can be easily integrated into any website with just one single line of code.
 
 ---
 
@@ -42,6 +53,7 @@ This script will automatically block following tracking codes from setting cooki
 - ConvertKit
 - Intercom
 - Mixpanel
+
 ---
 
 ## Demo
