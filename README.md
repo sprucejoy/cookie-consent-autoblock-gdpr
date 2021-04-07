@@ -38,6 +38,13 @@ This script will automatically block following tracking codes from setting cooki
 - ConvertKit
 - Intercom
 - Mixpanel
+---
+
+## Demo
+
+Here is the demo page.
+
+<img src="https://lapro.sfo2.cdn.digitaloceanspaces.com/sprucejoy/resources/sprucejoy-home-cookie-bar.png" alt="sprucejoy homepage " loading="lazy">
 
 ---
 ## Disclaimer
