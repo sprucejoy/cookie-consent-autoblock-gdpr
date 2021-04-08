@@ -61,8 +61,6 @@ Please contact us if you have some questions or you believe any tags shall be ad
 
 ## Demo
 
-Here is the demo page.
-
 <img src="https://lapro.sfo2.cdn.digitaloceanspaces.com/sprucejoy/resources/sprucejoy-home-cookie-bar.png" alt="sprucejoy homepage " loading="lazy">
 
 ---
