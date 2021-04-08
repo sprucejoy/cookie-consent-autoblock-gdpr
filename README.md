@@ -1,4 +1,4 @@
-# Cookie Consent & Autoblocking for GDPR/CCPA Compliance
+# Cookie Consent & Autoblock for GDPR/CCPA Compliance
 
 Make your site comply with the GDPR and CCPA with 1-line js code.
 
